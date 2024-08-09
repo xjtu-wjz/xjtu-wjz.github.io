@@ -7,7 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+About Yanbo Wang
+Hello, I’m Yanbo Wang, a dedicated Ph.D. student in Computer Science and Technology at Peking University, fortunate to be guided by Prof. Muhan Zhang.
+
+My academic journey began when I joined Xi’an Jiaotong University through the Honors Youth Program, where I earned my Bachelor’s degree in Computer Science. During my undergraduate years, I had the privilege of being part of the Collegiate Programming Contest school team and LUD at Xi’an Jiaotong University, which greatly enriched my experience.
+
+My research passion centers around graph neural networks, and I’m always enthusiastic about engaging in discussions and idea exchange with fellow enthusiasts in this field. If you share this interest or would like to connect for any reason, please don’t hesitate to reach out. Let’s collaborate and explore the world of computer science together!
 
 A data-driven personal website
 ======
