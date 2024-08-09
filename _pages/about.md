@@ -31,7 +31,7 @@ Publications
 
 Education
 ======
-| ![](images/xjtu.png) | 文字说明... |
+| ![xjtu](images/xjtu.png) | 文字说明... |
 |:--------------------------------:|:------------|
 
 
