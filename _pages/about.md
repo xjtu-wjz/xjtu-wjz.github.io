@@ -31,10 +31,13 @@ Publications
 
 Education
 ======
-<div style="display: flex; align-items: center;">
-  <img src="https://github.com/xjtu-wjz/xjtu-wjz.github.io/blob/master/images/xjtu.png" alt="描述" style="margin-right: 10px;">
-  <p>这里是图片的文字说明。</p>
+<div style="display: flex;">
+  <img src="[https://example.com/image.jpg](https://github.com/xjtu-wjz/xjtu-wjz.github.io/blob/master/images/xjtu.png)" alt="描述" style="flex: 0 0 50%; margin-right: 10px;">
+  <div style="flex: 0 0 50%;">
+    <p>这里是图片的文字说明。</p>
+  </div>
 </div>
+
 
 
 
