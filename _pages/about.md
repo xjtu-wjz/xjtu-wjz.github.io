@@ -31,7 +31,7 @@ Publications
 
 Education
 ======
-| ![xjtu](https://github.com/xjtu-wjz/xjtu-wjz.github.io/blob/master/images/xjtu.png) | 文字说明... |
+| ![xjtu](https://github.com/xjtu-wjz/xjtu-wjz.github.io/blob/master/images/xjtu.png) | Xi'an Jiaotong University |
 |:--------------------------------:|:------------|
 
 
