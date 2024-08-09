@@ -28,3 +28,10 @@ Publications
 - **Authors**: **Jiazhe Wei**, Yuefei Wu, Ken Li, Bin Shi
 - Inspired by the field of anomaly detection, we extend the Lagrangian conditional optimization problem to obtain extended Lagrangian equations that can be applied in the field of PU--learning, which achieves superior results and can be combined with learning methods in other loss--sensitive fields of PU-learning.
 - code(TBD)
+
+Education
+======
+| ![描述](图片链接 "图片标题") | 文字说明... |
+|:--------------------------------:|:------------|
+|                                   | 这里可以写图片的详细描述或其他相关信息。 |
+
