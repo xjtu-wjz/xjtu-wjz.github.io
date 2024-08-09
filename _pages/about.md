@@ -20,3 +20,10 @@ Research Interest
 My research interest includes :
 - Intersection study of the semi-supervised learning domain and the OOD detection 
 - Quantitative assessment and detection methods for OOD on graphs
+
+Publications
+======
+# Extended Lagrangian method for PU learning framework
+- Authors: **Jiazhe Wei**, Yuefei Wu, Ken Li, Bin Shi
+- Inspired by the field of anomaly detection, we extend the Lagrangian conditional optimization problem to obtain extended Lagrangian equations that can be applied in the field of PU--learning, which achieves superior results and can be combined with learning methods in other loss--sensitive fields of PU-learning.
+- code(TBD)
