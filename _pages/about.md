@@ -7,12 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-About Yanbo Wang
-Hello, I’m Yanbo Wang, a dedicated Ph.D. student in Computer Science and Technology at Peking University, fortunate to be guided by Prof. Muhan Zhang.
+About Jiazhe Wei
+======
+Hello, I’m Jiazhe Wei, an undergraduate student in Computer Science and Technology at Xi'an Jiaotong University, fortunate to be guided by Prof. Bin Shi and Ph.D. student Yuefei Wu.
 
-My academic journey began when I joined Xi’an Jiaotong University through the Honors Youth Program, where I earned my Bachelor’s degree in Computer Science. During my undergraduate years, I had the privilege of being part of the Collegiate Programming Contest school team and LUD at Xi’an Jiaotong University, which greatly enriched my experience.
+My academic journey began when I joined Xi’an Jiaotong University in 2022 fall. During my undergraduate years, I had the privilege of being part of the Computer Science Honor class and the research team of Prof. Bin Shi, which greatly enriched my experience and arouse my interest about artificail intelligence.
 
-My research passion centers around graph neural networks, and I’m always enthusiastic about engaging in discussions and idea exchange with fellow enthusiasts in this field. If you share this interest or would like to connect for any reason, please don’t hesitate to reach out. Let’s collaborate and explore the world of computer science together!
+My research passion centers around artificial intelligence, out of distribution to be specific, and I’m always enthusiastic about engaging in discussions and idea exchange with fellow enthusiasts in this field. If you share the same interest or would like to connect for any reason, please don’t hesitate to reach out. Let’s collaborate and explore the world of computer science together!
 
 A data-driven personal website
 ======
