@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-About Jiazhe Wei
+About Me
 ======
 Hello, I’m Jiazhe Wei, an undergraduate student in Computer Science and Technology at Xi'an Jiaotong University, fortunate to be guided by Prof. [Bin Shi](https://gr.xjtu.edu.cn/en/web/shibin/english-version) and Ph.D. student Yuefei Wu.
 
