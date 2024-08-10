@@ -18,7 +18,7 @@ My research passion centers around artificial intelligence, out of distribution 
 Research Interest
 ======
 My research interest includes :
-- Intersection study of the semi-supervised learning domain and the OOD detection 
+- Semi-supervised learning and anomaly detection 
 - Quantitative assessment and detection methods for OOD on graphs
 
 Publications
