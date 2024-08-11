@@ -37,5 +37,8 @@ Education
 **Xi'an Jiaotong University** <br> 2022.09-2026.06(Expected)<br><br>B.E in computer science<br> GPA:92.0/100<br>Advisor: Prof. [Bin Shi](https://gr.xjtu.edu.cn/en/web/shibin)
 
 
+<br>
+THU
+
 
 
