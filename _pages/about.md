@@ -31,10 +31,7 @@ Publications
 
 Education
 ======
-<p>
 <img align = "left" alt="xjtu" src="https://github.com/user-attachments/assets/164fbcd7-c3ee-4d96-bf87-a0979f2f4c44">
 **Xi'an Jiaotong University** <br> 2022.09-2026.06(Expected)<br><br>B.E in computer science<br> GPA:92.0/100<br>Advisor: Prof. [Bin Shi](https://gr.xjtu.edu.cn/en/web/shibin)
 
-</p>
-
-dsadasd
+My research passion centers around artificial intelligence, out of distribution detection to be specific, and I’m always enthusiastic about engaging in discussions and idea exchange with fellow enthusiasts in this field. If you share the same interest or would like to connect for any reason, please don’t hesitate to reach out. Let’s collaborate and explore the world of computer science together!
