@@ -31,6 +31,8 @@ Publications
 
 Education
 ======
+<img align = "left" alt="xjtu" src="https://github.com/user-attachments/assets/164fbcd7-c3ee-4d96-bf87-a0979f2f4c44">
+
 <img align="left" src="https://github.com/xjtu-wjz/xjtu-wjz.github.io/blob/master/images/xjtu.png"/>
 **Xi'an Jiaotong University** <br> 2022.09-2026.06(Expected)<br><br>B.E in computer science<br> GPA:92.0/100<br>Advisor: Prof. [Bin Shi](https://gr.xjtu.edu.cn/en/web/shibin)
 
