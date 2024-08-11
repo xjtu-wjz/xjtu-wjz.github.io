@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Please click [here]() if interested
+Please click [here](assets/cv.pdf) if interested
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
